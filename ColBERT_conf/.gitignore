@@ -1,0 +1,31 @@
+/experiments/
+/checkpoints/
+/data/
+/logs/
+/mlruns/
+/profiler/
+/logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# notebooks/
+
+# mac
+.DS_Store
+
+# Other
+.vscode
+*.tsv
+
+# 追加
+/BERTmodel/
+/colbertv2.0/
+/trec_tot_BERTmodel/
+/trec_tot_test/
+# /data/TREC_TOT/corpus.jsonl/
+# /data/TREC_TOT/corpus_processed.tsv/
